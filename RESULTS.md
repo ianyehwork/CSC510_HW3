@@ -18,3 +18,28 @@
 
 ### Post Experiment Survey
 All the participants are required to fill the [survey form](https://docs.google.com/forms/d/e/1FAIpQLSeAyvzNEJ6ozMKzJXRQOpA_AgN3aico8uZJ9fSEIe81Bukxow/viewform?usp=sf_link)
+
+## Observations
+Due to the fact that not all the participants have chance to finish debugging all the GOL version due to limited item or willingness, the following graph shows how many participants complete which GOL version. This can help us understand if there is bias towards the observation caused by insufficient data.
+
+<img src="/image/Version_Participant_Count.png">
+
+### How easy to debug certain language
+1: Easy - 5: Hard
+
+<img src="/image/Easy_Ruby.png">
+<img src="/image/Easy_Kotlin.png">
+<img src="/image/Easy_Proc.png">
+
+### What is the hard part(s) about certain language
+
+<img src="/image/Hard_Ruby.png">
+<img src="/image/Hard_Kotlin.png">
+<img src="/image/Hard_Proc.png">
+
+### How likely will you learn certain language
+1: Not Likely - 5: Most Likely
+
+<img src="/image/Likely_Ruby.png">
+<img src="/image/Likely_Kotlin.png">
+<img src="/image/Likely_Proc.png">
