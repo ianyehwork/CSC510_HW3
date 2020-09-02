@@ -43,3 +43,18 @@ Due to the fact that not all the participants have chance to finish debugging al
 <img src="/image/Likely_Ruby.png">
 <img src="/image/Likely_Kotlin.png">
 <img src="/image/Likely_Proc.png">
+
+## Conclusion
+
+## Threat to validity
+There are a few things in our experiment that could pose a threat to validity and accuracy of the test. Following are some highlights -   
+  
+In order to debug different languages, different compilers were used at different websites. This interferes with standardization and the amount of time given to each debugger in a small but significant way. The ideal method should be to provide the same system to testers.  
+  
+The familiarity of each tester is with the language they debugged is not taken minutely into consideration. Due to different levels of comfort in different language, the results could show some difference than expected as this could provide ease to the one more comfortable in a particular language.  
+  
+Amount of data collected could have been more minute. The specific details in the analysis like the exact timings at which a bug was suspected and the amount of time fixed. Additionally calculating the number of attempts made and number of times compiled can also be useful measures.  
+  
+The constructs and the way codes were written varied with some amounts from language to language. The bugs are different from language to language. Though they were of similar level of difficulty, still do not pose an ideal environment to compare the results in an absolute way.  
+  
+Subjective analysis of the test is not described in detail. The data is usually collected in numbers which have fixed values. Due to this, some details from the tester’s as well as reviewer’s side could be incomplete. Thus a long subjective description can also be used to capture more details about the test.  
