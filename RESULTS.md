@@ -26,7 +26,7 @@
 3. Click on Run button to check the output.
 
 ### Post Experiment Survey
-All the participants are required to fill the [survey form](https://docs.google.com/forms/d/e/1FAIpQLSeAyvzNEJ6ozMKzJXRQOpA_AgN3aico8uZJ9fSEIe81Bukxow/viewform?usp=sf_link)
+All the participants are required to fill the [survey form](https://docs.google.com/forms/d/e/1FAIpQLSeAyvzNEJ6ozMKzJXRQOpA_AgN3aico8uZJ9fSEIe81Bukxow/viewform?usp=sf_link) after the experiment.
 
 ## Observations
 Due to the fact that not all the participants have chance to finish debugging all the GOL version due to limited item or willingness, the following graph shows how many participants complete which GOL version. This can help us understand if there is bias towards the observation caused by insufficient data.
