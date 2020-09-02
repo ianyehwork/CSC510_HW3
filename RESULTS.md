@@ -45,7 +45,9 @@ Due to the fact that not all the participants have chance to finish debugging al
 <img src="/image/Likely_Proc.png">
 
 ## Conclusion
-
+1. Clearly, participants found Ruby the easiest to debug while Processing to be the hardest one.  
+2. Participants were unanimous that Ruby and Kotlin have different syntax types which confused them. Processing was difficult in syntax type as well as the flow and readability. 
+3. Participants were more likely to learn Ruby after the experiment and least interested in Processing.  
 
 ## Threat to validity
 There are a few things in our experiment that could pose a threat to validity and accuracy of the test. Following are some highlights -   
