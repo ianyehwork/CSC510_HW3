@@ -1,3 +1,12 @@
+## Method
+1. Game of Life is coded in Ruby, Processing and Kotlin and few bugs are introduced into all three codes.
+2. A Google form for signing up with preferred time slots was put up for candidates to sign up.
+3. Using the preferred time slots, we scheduled video calls via zoom for 30 mins where the candidates were expected to try debugging the code in their preferred language(s).
+4. All the Candidates are provided with detailed instructions on installation of their preferred language(s). 
+5. While Candidates are debugging the code, several observations are recorded to test our hypothesis.
+6. A google sheet is provided to every candidate to findout the difficult part in the language and their future interest with their preferred language.
+7. Considering all the information, Hypothesis is built.
+
 ## Material
 
 ### Instructions for Testing in Kotlin
